@@ -1,17 +1,17 @@
 # Grafo de coocurrencias del corpus tradwife
 
-Material complementario del capítulo [título del capítulo], de [autoría], en [libro, editorial, año].
+Material complementario del capítulo «La tendencia tradwife en las redes sociales o cómo el neoliberalismo hace emerger los roles tradicionales de las mujeres», de [autoría], en *Discurso, léxico y género: representaciones de la mujer y el feminismo en España (siglos XX–XXI)* (Dykinson, [año]).
 
-**Grafo interactivo:** https://[usuario].github.io/grafo-tradwife/
+**Grafo interactivo:** https://anavarelasuar-dotcom.github.io/grafo-tradwife/
 
 Vistas directas por subcorpus:
 
-- Global: `#global`
-- España: `#espana`
-- Latinoamérica: `#latinoamerica`
-- España sin RoRo: `#espana-sin-roro`
-- Vídeos explícitos: `#explicito`
-- Vídeos implícitos: `#implicito`
+- Global: https://anavarelasuar-dotcom.github.io/grafo-tradwife/#global
+- España: https://anavarelasuar-dotcom.github.io/grafo-tradwife/#espana
+- Latinoamérica: https://anavarelasuar-dotcom.github.io/grafo-tradwife/#latinoamerica
+- España sin RoRo: https://anavarelasuar-dotcom.github.io/grafo-tradwife/#espana-sin-roro
+- Vídeos explícitos: https://anavarelasuar-dotcom.github.io/grafo-tradwife/#explicito
+- Vídeos implícitos: https://anavarelasuar-dotcom.github.io/grafo-tradwife/#implicito
 
 ## Corpus
 
@@ -30,7 +30,7 @@ Vistas directas por subcorpus:
 | Archivo | Contenido |
 | --- | --- |
 | `index.html` | Visor interactivo. Funciona en el navegador sin instalar nada, también sin conexión. |
-| `gexf/` | Los seis grafos en formato GEXF, para Gephi o Gephi Lite. |
+| `tradwife_*.gexf` | Los seis grafos en formato GEXF, para Gephi o Gephi Lite. |
 | `Resultados_grafo_tradwife.xlsx` | Métricas, matrices entre nodos, vecinos y adjetivos de cada nodo, nodos y aristas. |
 
 ## Herramientas
