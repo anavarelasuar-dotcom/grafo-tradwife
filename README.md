@@ -21,7 +21,7 @@ Vistas directas por subcorpus:
 
 - Unidad: la oración. Formas sin lematizar.
 - Se conservan sustantivos, nombres propios, adjetivos y verbos (sin auxiliares).
-- Nueve nodos de categoría sustituyen a las palabras que agrupan: HOMBRE_PAREJA, CREADORA, ALIMENTO, TAREA, TIEMPO, HIJOS, PROVISIÓN, CUERPO y AUDIENCIA. La asignación de formas y de referentes (clíticos y palabras ambiguas) se revisó a mano.
+- Nueve nodos de categoría sustituyen a las palabras que agrupan: HOMBRE_PAREJA, CREADORA, ALIMENTO, TAREA, TIEMPO, DESCENDIENTES, PROVISIÓN, CUERPO y AUDIENCIA. La asignación de formas y de referentes (clíticos y palabras ambiguas) se revisó a mano.
 - Dos palabras se conectan si están a una o dos posiciones dentro de la oración: peso 2 si son contiguas y 1 si hay una palabra entre medias.
 - Métricas: grado, grado ponderado, intermediación y comunidades de Louvain.
 
