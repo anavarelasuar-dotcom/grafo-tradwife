@@ -15,7 +15,7 @@ Vistas directas por subcorpus:
 
 ## Corpus
 
-51 vídeos de TikTok de 26 creadoras (29 de España y 22 de Latinoamérica), publicados entre octubre de 2021 y febrero de 2026, con unas 16.000 palabras de transcripción, segmentadas en 1.002 oraciones. El corpus procede del TFG de Candela Fernández Fariñas (Universidade de Vigo). Las transcripciones no se incluyen en este repositorio.
+100 vídeos de TikTok de 46 creadoras (56 de España y 44 de Latinoamérica), publicados entre octubre de 2021 y mayo de 2026, con unas 31.000 palabras de transcripción, segmentadas en 1.854 oraciones. El corpus lo recopiló Candela Fernández Fariñas (Universidade de Vigo). Las transcripciones no se incluyen en este repositorio.
 
 ## Método
 
